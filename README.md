@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/alef-torres/alef-torres/assets/93882992/27054a2a-5a98-4329-b9a4-282f4417c2f6" alt="Imagem" width="100%">
-</div>
-
-<div align="center">
 
 # Olá, eu sou o Alef Torres! 👋
 
