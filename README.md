@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,cs,shaderlab,spring,mysql,postgres,git,docker,aws,linux,idea&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,cs,spring,mysql,postgres,git,docker,aws,linux,idea&perline=7" />
   </a>
 </p>
 
@@ -66,6 +66,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alefstrogulski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/[SEU_USUARIO_TWITTER]" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="mailto:aleftorresbr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
