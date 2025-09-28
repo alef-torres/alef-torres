@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou o SEU_NOME!
+# 👋 Olá, eu sou o Alef Torres!
 
 ### Um pouco sobre mim...
-- 🔭 Atualmente estou trabalhando em...
+- 🔭 Atualmente estou trabalhando em um mundo mais inteligente
 - 🌱 Estou aprendendo **Java, Spring Boot e AWS**.
-- 👯 Procuro colaborar em projetos open source de...
-- 📫 Como me encontrar: [seu-email@exemplo.com](mailto:aleftorresbr@gmail.com)
+- 👯 Procuro colaborar em projetos open source de AI
+- 📫 Como me encontrar: [aleftorresbr@gamil.com](mailto:aleftorresbr@gmail.com)
 - 😄 Pronomes: Ele/Dele
 
 <br>
@@ -25,7 +25,7 @@
 ### 📊 Minhas Estatísticas do GitHub:
 <p align="center">
   <a href="https://github.com/alef-torres">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alef-torres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alef-torres&layout=compact&langs_count=7&theme=dracula" />
   </a>
 </p>
